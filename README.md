@@ -28,6 +28,7 @@ At the same time, some people want to improve their diet but don’t consult nut
 Another problem is that not all food products have clear nutritional labels, making it hard to know how healthy they are or what nutrients they contain.
 
 That’s why we created this **Nutrition Intelligence System**, a tool that helps analyze food products and estimate their nutritional value so users can make better and healthier choices
+
 ---
 
 ## 📦 Dataset
