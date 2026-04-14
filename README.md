@@ -57,6 +57,20 @@ Open Food Facts is a collaborative, crowd-sourced database. This means the data 
 | nutrient.csv | Nutrient definitions and units | 474 |
 | food_category.csv | Food category names | 25 |
 
+## ⚠️ Important
+Due to size limitations, datasets are not included in this repository.
+
+You can download them here:
+
+🔗 Nutrition Intelligence System Dataset (Google Drive):
+https://drive.google.com/drive/folders/11cHKFzFWUQdnXSP3dMuMZ4D2RpzTqURH?usp=sharing
+
+### How to use:
+1. Download and extract the folder
+2. Place files inside:
+   - `nutriscore/data/`
+   - `macro_predictor/data/`
+3. Run notebooks or Streamlit app
 ---
 
 ## 🗂️ Repository Structure
